@@ -2,9 +2,9 @@
   "files": {
     "static/js/0.e1d65ecc.chunk.js": "/twei/static/js/0.e1d65ecc.chunk.js",
     "static/js/0.e1d65ecc.chunk.js.map": "/twei/static/js/0.e1d65ecc.chunk.js.map",
-    "main.css": "/twei/static/css/main.4e964728.chunk.css",
-    "main.js": "/twei/static/js/main.b9764c55.chunk.js",
-    "main.js.map": "/twei/static/js/main.b9764c55.chunk.js.map",
+    "main.css": "/twei/static/css/main.615da722.chunk.css",
+    "main.js": "/twei/static/js/main.e1174b67.chunk.js",
+    "main.js.map": "/twei/static/js/main.e1174b67.chunk.js.map",
     "polyfills-dom.js": "/twei/static/js/polyfills-dom.896575ab.chunk.js",
     "polyfills-dom.js.map": "/twei/static/js/polyfills-dom.896575ab.chunk.js.map",
     "runtime-main.js": "/twei/static/js/runtime-main.3a807d70.js",
@@ -122,7 +122,7 @@
     "service-worker.js": "/twei/service-worker.js",
     "service-worker.js.map": "/twei/service-worker.js.map",
     "static/css/4.532f36fa.chunk.css.map": "/twei/static/css/4.532f36fa.chunk.css.map",
-    "static/css/main.4e964728.chunk.css.map": "/twei/static/css/main.4e964728.chunk.css.map",
+    "static/css/main.615da722.chunk.css.map": "/twei/static/css/main.615da722.chunk.css.map",
     "static/js/4.d7242ce8.chunk.js.LICENSE.txt": "/twei/static/js/4.d7242ce8.chunk.js.LICENSE.txt",
     "static/js/52.2d3a1bea.chunk.js.LICENSE.txt": "/twei/static/js/52.2d3a1bea.chunk.js.LICENSE.txt",
     "static/js/polyfills-dom.896575ab.chunk.js.LICENSE.txt": "/twei/static/js/polyfills-dom.896575ab.chunk.js.LICENSE.txt"
@@ -131,7 +131,7 @@
     "static/js/runtime-main.3a807d70.js",
     "static/css/4.532f36fa.chunk.css",
     "static/js/4.d7242ce8.chunk.js",
-    "static/css/main.4e964728.chunk.css",
-    "static/js/main.b9764c55.chunk.js"
+    "static/css/main.615da722.chunk.css",
+    "static/js/main.e1174b67.chunk.js"
   ]
 }
